@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on **school assignments**
-- 🌱 I’m currently learning * *the basics* * 
+- 🌱 I’m currently learning *the basics* 
 <!-- - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
